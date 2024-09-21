@@ -21,3 +21,5 @@ A basic calculator built using HTML, CSS, and JavaScript. This calculator perfor
 1. **Download or Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/simple-calculator.git
+## link
+https://devang-kumar.github.io/simple-calculator/
